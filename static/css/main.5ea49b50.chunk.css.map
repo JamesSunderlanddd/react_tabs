@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACE,mBACE,WAAY,CACb,6BAGC,SAAU,CACV,qBAAsB","file":"main.5ea49b50.chunk.css","sourcesContent":[".App {\n  &__buttons-item {\n    border: none;\n  }\n\n  &__buttons-item--selected {\n    color: red;\n    background-color: gold;\n  }\n}\n"]}
